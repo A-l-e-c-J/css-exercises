@@ -1,0 +1,17 @@
+.first,
+.second {
+  
+}
+
+
+.first{
+  background-color: black;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+
+
+.second{
+background-color: rgb(255,255,0);
+}
