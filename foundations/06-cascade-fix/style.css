@@ -2,6 +2,12 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+#confirm-button {
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
+
 .para,
 .small-para {
   color: hsl(0, 0%, 0%);
@@ -16,12 +22,6 @@ body {
 .para {
   font-size: 22px;
 }
-
-#confirm-button {
-  background: green;
-  color: white;
-  font-weight: bold;
-} 
 
 .button {
   background-color: rgb(255, 255, 255);
