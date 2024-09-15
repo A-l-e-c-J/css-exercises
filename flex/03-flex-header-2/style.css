@@ -19,15 +19,13 @@ body {
 }
 
 
-.left {
-  justify-content: flex-start;
-  margin: 0px;
+.left .right {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
 }
 
-.right {
-  justify-content: flex-end;
-  margin: 0px;
-}
 
 .profile-image {
   background: rebeccapurple;
