@@ -12,7 +12,7 @@ img {
   font-weight: 900;
 }
 
-.module {
+.container {
 display: flex;
 justify-content: center;
 align-items: center;
